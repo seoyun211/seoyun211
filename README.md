@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seoyun211
+- 👋 Hi, I’m Seoyun Jang !!
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyun211)](https://github.com/anuraghazra/github-readme-stats)
 
-### Status
+### My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun211&show_icons=true&theme=radical)
